@@ -25,6 +25,7 @@ spring-boot-microservice
     <img alt="Techs" title="Techs" src="https://user-images.githubusercontent.com/34090058/72368131-7fb72400-370e-11ea-9176-2ca8b8815e35.png"width="300">
   </a>
 </p>
+
 #### currency-exchange-service
 </p>
 <p>
